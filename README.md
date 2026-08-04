@@ -29,7 +29,7 @@
 
 .
 # [Socials👤]
-### [🎮 ITCH.IO](notagain.com)
-### [📽️ YOUTUBE](notagain.com)
-### [🔴 TWITCH](notagain.com)
-### [⛏️ MINECRAFT](notagain.com)
+### [🎮 ITCH.IO](https://tnam-1.itch.io)
+### [📽️ YOUTUBE](https://www.twitch.tv/tnam1tv)
+### [🔴 TWITCH](https://www.youtube.com/@tnam_1)
+### [⛏️ MINECRAFT](https://namemc.com/profile/tnam_1.1)
