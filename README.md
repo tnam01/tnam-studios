@@ -4,9 +4,9 @@
 .
 # [Games/Programs🎮]
 
-### <ins>Virus Guesser</ins> *[UNITY GAME]* > [PLAY GAME](game.com)
+### <ins>Virus Guesser</ins> *[UNITY GAME]* > [PLAY GAME](https://tnam-1.itch.io/virus-guesser)
 > ![| CURRENTLY NO IMAGE! |](https://img.itch.zone/aW1hZ2UvMzE5MjU1MS8yMTI3ODAyOS5wbmc=/347x500/bn%2BdlE.png)
-### <ins>Lolipop Clicker Remastered</ins> *[UNITY GAME]* > [PLAY GAME](game.com)      
+### <ins>Lolipop Clicker Remastered</ins> *[UNITY GAME]* > [PLAY GAME](https://tnam-1.itch.io/lolipop-clicker-remastered)      
 > ![| CURRENTLY NO IMAGE! |](https://img.itch.zone/aW1hZ2UvMjc1MjM2Ny8yNTYzMDgwNi5wbmc=/347x500/IUhVw8.png)
 
 .
@@ -28,8 +28,11 @@
 - [x] Currently No Tasks Added!
 
 .
-# [Socials👤]
+# [Other/Socials👤]
 ### [🎮 ITCH.IO](https://tnam-1.itch.io)
-### [📽️ YOUTUBE](https://www.twitch.tv/tnam1tv)
-### [🔴 TWITCH](https://www.youtube.com/@tnam_1)
+### [📽️ YOUTUBE](https://www.youtube.com/@tnam_1)
+### [🔴 TWITCH](https://www.twitch.tv/tnam1tv)
 ### [⛏️ MINECRAFT](https://namemc.com/profile/tnam_1.1)
+.
+
+### Minecraft Server Status: [SHUTDOWN BECAUSE OF LOW PLAYERS🕸️]
