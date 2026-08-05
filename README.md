@@ -16,7 +16,7 @@
 
 ## 🦆 <ins>Duck Quest</ins> *[UNITY GAME]*
 > ![| CURRENTLY NO IMAGE! |](https://cdn.discordapp.com/attachments/1534295828108279939/1534296675756281866/Screenshot_2026-08-04_221931.png?ex=6a739ca1&is=6a724b21&hm=e63368a8075f7cba89a890adc2e71456c59088cda05e70da248cb9a1ac0e32eb&)
-### **To-Do: (50%)**
+### **To-Do: (🟡50%)**
 - [x] Player Controller
 - [x] Tutorial
 - [ ] Story Map
@@ -24,7 +24,7 @@
       
 ## ⛏️ <ins>TPlugin</ins> *[Minecraft Plugin]*
 > ![| CURRENTLY NO IMAGE! |](image.com)
-### **To-Do: (0%)**
+### **To-Do: (🔴0%)**
 - [x] Currently No Tasks Added!
 
 .
