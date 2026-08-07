@@ -30,7 +30,7 @@
 > ![| CURRENTLY NO IMAGE! |](image.com)
 ### **To-Do: (🔴0%)**
 - [x] Islands
-- [] Join Other Islands
+- [ ] Join Other Islands
 
 ════════════════════════════════════
 ## 『ѕᴏᴄɪᴀʟ & ᴏᴛʜᴇʀ👤』
