@@ -26,10 +26,11 @@
 - [ ] Tower Mode
 
 ───────────────────────
-### ⛏️ <ins>TPlugin</ins> *[Minecraft Plugin]*
+### ⛏️ <ins>TSkyblock</ins> *[Minecraft Plugin/Server]*
 > ![| CURRENTLY NO IMAGE! |](image.com)
 ### **To-Do: (🔴0%)**
-- [x] Currently No Tasks Added!
+- [] Islands
+- [] Join Other Islands
 
 ════════════════════════════════════
 ## 『ѕᴏᴄɪᴀʟ & ᴏᴛʜᴇʀ👤』
