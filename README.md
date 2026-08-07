@@ -29,7 +29,7 @@
 ### ⛏️ <ins>TSkyblock</ins> *[Minecraft Plugin/Server]*
 > ![| CURRENTLY NO IMAGE! |](image.com)
 ### **To-Do: (🔴0%)**
-- [] Islands
+- [x] Islands
 - [] Join Other Islands
 
 ════════════════════════════════════
