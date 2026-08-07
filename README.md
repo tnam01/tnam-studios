@@ -28,10 +28,11 @@
 ───────────────────────
 ### ⛏️ <ins>TSkyblock</ins> *[Minecraft Plugin/Server]*
 > ![| CURRENTLY NO IMAGE! |](https://cdn.discordapp.com/attachments/1534295828108279939/1535186399655895090/downscaled_347x182.png?ex=6a76d940&is=6a7587c0&hm=44281fda6ab73b0fb6298fe636d3193e96bf22aac28bf5bb9d587f5b7b68b81c&)
-### **To-Do: (🟢100%)**
+### **To-Do: (🟡75%)**
 - [x] Islands
 - [x] Join Other Islands
 - [x] Commands
+- [ ] Cancel command if moved
 
 ════════════════════════════════════
 ## 『ѕᴏᴄɪᴀʟ & ᴏᴛʜᴇʀ👤』
