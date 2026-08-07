@@ -4,11 +4,11 @@
 ════════════════════════════════════
 ## 『ɢᴀᴍᴇѕ ᴀɴᴅ ᴘʀᴏɢʀᴀᴍѕ🎮』
 
-### <ins>Virus Guesser</ins> *[UNITY GAME]* ⬩➤ [ɢᴇᴛ ɴᴏᴡ](https://tnam-1.itch.io/virus-guesser)
+### <ins>Virus Guesser</ins> *[UNITY GAME]* V5 ⬩➤ [ɢᴇᴛ ɴᴏᴡ](https://tnam-1.itch.io/virus-guesser)
 > ![| CURRENTLY NO IMAGE! |](https://img.itch.zone/aW1hZ2UvMzE5MjU1MS8yMTI3ODAyOS5wbmc=/347x500/bn%2BdlE.png)
 
 ───────────────────────
-### <ins>Lolipop Clicker Remastered</ins> *[UNITY GAME]* ⬩➤ [ɢᴇᴛ ɴᴏᴡ](https://tnam-1.itch.io/lolipop-clicker-remastered)      
+### <ins>Lolipop Clicker Remastered</ins> *[UNITY GAME]* V1 ⬩➤ [ɢᴇᴛ ɴᴏᴡ](https://tnam-1.itch.io/lolipop-clicker-remastered)      
 > ![| CURRENTLY NO IMAGE! |](https://img.itch.zone/aW1hZ2UvMjc1MjM2Ny8yNTYzMDgwNi5wbmc=/347x500/IUhVw8.png)
 
 ════════════════════════════════════
